@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 from time import sleep
 import re
 def main():
